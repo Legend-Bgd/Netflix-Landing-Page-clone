@@ -20,7 +20,7 @@ Check out the live demo: Demo Link Here
 
     Clone the Repository:
 
-git clone https://github.com/yourusername/netflix-clone.git
+git clone https://github.com/Legend-Bgd/Netflix-Landing-Page-clone.git
 cd netflix-clone
 
 Install Dependencies:
